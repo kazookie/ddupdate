@@ -1,0 +1,9 @@
+[Unit]
+Description=ddupdate service
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/ddupdate
+
+[Install]
+WantedBy=default.target

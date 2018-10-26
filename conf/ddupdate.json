@@ -1,0 +1,7 @@
+{
+    "domain": "example.jp",
+    "password": "foobar",
+    "host": [
+        "www"
+    ]
+}
